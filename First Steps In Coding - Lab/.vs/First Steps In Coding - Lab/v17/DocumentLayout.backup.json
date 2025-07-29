@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70ECA76C-DA5A-4D70-8127-55ED27AB8912}|09. Yard Greening\\09. Yard Greening.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\09. yard greening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70ECA76C-DA5A-4D70-8127-55ED27AB8912}|09. Yard Greening\\09. Yard Greening.csproj|solutionrelative:09. yard greening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC8CD-C01A-48A5-B59D-94B8190EB538}|08. Pet Shop\\08. Pet Shop.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\08. pet shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07FC8CD-C01A-48A5-B59D-94B8190EB538}|08. Pet Shop\\08. Pet Shop.csproj|solutionrelative:08. pet shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5867A9-A26F-4227-84C2-550DB4B8180F}|07. Projects Creation\\07. Projects Creation.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\07. projects creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5867A9-A26F-4227-84C2-550DB4B8180F}|07. Projects Creation\\07. Projects Creation.csproj|solutionrelative:07. projects creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF22C825-10F1-48DF-AF8A-DB50088FABE3}|06. Concatenate Data\\06. Concatenate Data.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\06. concatenate data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF22C825-10F1-48DF-AF8A-DB50088FABE3}|06. Concatenate Data\\06. Concatenate Data.csproj|solutionrelative:06. concatenate data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED35B1-0F01-4E77-B342-F0F4F108F879}|05. Greeting by Name\\05. Greeting by Name.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\05. greeting by name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ED35B1-0F01-4E77-B342-F0F4F108F879}|05. Greeting by Name\\05. Greeting by Name.csproj|solutionrelative:05. greeting by name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A4A2-D8DF-414F-B53E-CE9A9FF54F8A}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF8A4A2-D8DF-414F-B53E-CE9A9FF54F8A}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|solutionrelative:04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D548AB-A97D-4C41-ADB7-3CBA9B21D458}|03. Rectangle Area\\03. Rectangle Area.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D548AB-A97D-4C41-ADB7-3CBA9B21D458}|03. Rectangle Area\\03. Rectangle Area.csproj|solutionrelative:03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A02A865-B38E-4BC0-9CB6-6747B7FCB7A4}|02. Nums 1-10\\02. Nums 1-10.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\02. nums 1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A02A865-B38E-4BC0-9CB6-6747B7FCB7A4}|02. Nums 1-10\\02. Nums 1-10.csproj|solutionrelative:02. nums 1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0889B20-8C7E-4F58-8F1F-ABCB9D099671}|01. Hello SoftUni\\01. Hello SoftUni.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - lab\\01. hello softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0889B20-8C7E-4F58-8F1F-ABCB9D099671}|01. Hello SoftUni\\01. Hello SoftUni.csproj|solutionrelative:01. hello softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\09. Yard Greening\\Program.cs",
+              "RelativeDocumentMoniker": "09. Yard Greening\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\09. Yard Greening\\Program.cs",
+              "RelativeToolTip": "09. Yard Greening\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:26:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\08. Pet Shop\\Program.cs",
+              "RelativeDocumentMoniker": "08. Pet Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\08. Pet Shop\\Program.cs",
+              "RelativeToolTip": "08. Pet Shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:25:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\07. Projects Creation\\Program.cs",
+              "RelativeDocumentMoniker": "07. Projects Creation\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\07. Projects Creation\\Program.cs",
+              "RelativeToolTip": "07. Projects Creation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:24:17.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\06. Concatenate Data\\Program.cs",
+              "RelativeDocumentMoniker": "06. Concatenate Data\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\06. Concatenate Data\\Program.cs",
+              "RelativeToolTip": "06. Concatenate Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:22:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\05. Greeting by Name\\Program.cs",
+              "RelativeDocumentMoniker": "05. Greeting by Name\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\05. Greeting by Name\\Program.cs",
+              "RelativeToolTip": "05. Greeting by Name\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:21:40.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\04. Inches to Centimeters\\Program.cs",
+              "RelativeDocumentMoniker": "04. Inches to Centimeters\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\04. Inches to Centimeters\\Program.cs",
+              "RelativeToolTip": "04. Inches to Centimeters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:20:18.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\03. Rectangle Area\\Program.cs",
+              "RelativeDocumentMoniker": "03. Rectangle Area\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\03. Rectangle Area\\Program.cs",
+              "RelativeToolTip": "03. Rectangle Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:18:55.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\02. Nums 1-10\\Program.cs",
+              "RelativeDocumentMoniker": "02. Nums 1-10\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\02. Nums 1-10\\Program.cs",
+              "RelativeToolTip": "02. Nums 1-10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:17:46.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\01. Hello SoftUni\\Program.cs",
+              "RelativeDocumentMoniker": "01. Hello SoftUni\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Lab\\01. Hello SoftUni\\Program.cs",
+              "RelativeToolTip": "01. Hello SoftUni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:12:46.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
