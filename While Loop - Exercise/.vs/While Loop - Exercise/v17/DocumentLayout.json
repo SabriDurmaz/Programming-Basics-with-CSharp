@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B463F9-BCF4-40E7-8323-D09F96FFBCC6}|07. Moving\\07. Moving.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - exercise\\07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B463F9-BCF4-40E7-8323-D09F96FFBCC6}|07. Moving\\07. Moving.csproj|solutionrelative:07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A291AA-0B52-41F4-93B4-E75A595A863B}|06. Cake\\06. Cake.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - exercise\\06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A291AA-0B52-41F4-93B4-E75A595A863B}|06. Cake\\06. Cake.csproj|solutionrelative:06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8654C7-570F-4F0A-942A-A4382185F49E}|05. Coins\\05. Coins.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - exercise\\05. coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8654C7-570F-4F0A-942A-A4382185F49E}|05. Coins\\05. Coins.csproj|solutionrelative:05. coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8361679D-92DD-4612-A98E-6038F414C3D0}|04. Walking\\04. Walking.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - exercise\\04. walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8361679D-92DD-4612-A98E-6038F414C3D0}|04. Walking\\04. Walking.csproj|solutionrelative:04. walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FED34-A1E6-485E-A6E8-9E1358D2CE31}|03. Vacation\\03. Vacation.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - exercise\\03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FED34-A1E6-485E-A6E8-9E1358D2CE31}|03. Vacation\\03. Vacation.csproj|solutionrelative:03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152F706-1347-42D6-A476-B1B3405225A6}|02. Exam Preparation\\02. Exam Preparation.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - exercise\\02. exam preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152F706-1347-42D6-A476-B1B3405225A6}|02. Exam Preparation\\02. Exam Preparation.csproj|solutionrelative:02. exam preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D972B4D-ECB9-4CCD-8163-CCB6AC93404B}|01. Old Books\\01. Old Books.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - exercise\\01. old books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D972B4D-ECB9-4CCD-8163-CCB6AC93404B}|01. Old Books\\01. Old Books.csproj|solutionrelative:01. old books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeDocumentMoniker": "07. Moving\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeToolTip": "07. Moving\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:41:10.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeDocumentMoniker": "06. Cake\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeToolTip": "06. Cake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:40:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\05. Coins\\Program.cs",
+              "RelativeDocumentMoniker": "05. Coins\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\05. Coins\\Program.cs",
+              "RelativeToolTip": "05. Coins\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:40:03.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\04. Walking\\Program.cs",
+              "RelativeDocumentMoniker": "04. Walking\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\04. Walking\\Program.cs",
+              "RelativeToolTip": "04. Walking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:39:45.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\03. Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03. Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\03. Vacation\\Program.cs",
+              "RelativeToolTip": "03. Vacation\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:39:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\02. Exam Preparation\\Program.cs",
+              "RelativeDocumentMoniker": "02. Exam Preparation\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\02. Exam Preparation\\Program.cs",
+              "RelativeToolTip": "02. Exam Preparation\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:39:00.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\01. Old Books\\Program.cs",
+              "RelativeDocumentMoniker": "01. Old Books\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Exercise\\01. Old Books\\Program.cs",
+              "RelativeToolTip": "01. Old Books\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:37:39.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
