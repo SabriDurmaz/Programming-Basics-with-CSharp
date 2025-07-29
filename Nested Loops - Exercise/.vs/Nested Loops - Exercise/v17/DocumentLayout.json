@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CDDC83-330E-43A4-8225-A59109A9131A}|06. Cinema Tickets\\06. Cinema Tickets.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\nested loops - exercise\\06. cinema tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CDDC83-330E-43A4-8225-A59109A9131A}|06. Cinema Tickets\\06. Cinema Tickets.csproj|solutionrelative:06. cinema tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D17137-32F0-4B7D-9ADC-4A7D3B8C31F1}|05. Special Numbers\\05. Special Numbers.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\nested loops - exercise\\05. special numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D17137-32F0-4B7D-9ADC-4A7D3B8C31F1}|05. Special Numbers\\05. Special Numbers.csproj|solutionrelative:05. special numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8438E1-FF6A-4EE3-89D0-11DBF0F5DA17}|04. Train The Trainers\\04. Train The Trainers.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\nested loops - exercise\\04. train the trainers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8438E1-FF6A-4EE3-89D0-11DBF0F5DA17}|04. Train The Trainers\\04. Train The Trainers.csproj|solutionrelative:04. train the trainers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB4E439-6E2C-499D-812F-9869FA475108}|03. Sum Prime Non Prime\\03. Sum Prime Non Prime.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\nested loops - exercise\\03. sum prime non prime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB4E439-6E2C-499D-812F-9869FA475108}|03. Sum Prime Non Prime\\03. Sum Prime Non Prime.csproj|solutionrelative:03. sum prime non prime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B09AD84-C275-486E-A559-C2EBA1B3658D}|02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\nested loops - exercise\\02. equal sums even odd position\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B09AD84-C275-486E-A559-C2EBA1B3658D}|02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.csproj|solutionrelative:02. equal sums even odd position\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AD5D72-893B-4D12-BA2E-83BE7CD3D6F2}|01. Number Pyramid\\01. Number Pyramid.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\nested loops - exercise\\01. number pyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AD5D72-893B-4D12-BA2E-83BE7CD3D6F2}|01. Number Pyramid\\01. Number Pyramid.csproj|solutionrelative:01. number pyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\06. Cinema Tickets\\Program.cs",
+              "RelativeDocumentMoniker": "06. Cinema Tickets\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\06. Cinema Tickets\\Program.cs",
+              "RelativeToolTip": "06. Cinema Tickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:52:40.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\05. Special Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "05. Special Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\05. Special Numbers\\Program.cs",
+              "RelativeToolTip": "05. Special Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:52:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\04. Train The Trainers\\Program.cs",
+              "RelativeDocumentMoniker": "04. Train The Trainers\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\04. Train The Trainers\\Program.cs",
+              "RelativeToolTip": "04. Train The Trainers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:52:01.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\03. Sum Prime Non Prime\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Prime Non Prime\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\03. Sum Prime Non Prime\\Program.cs",
+              "RelativeToolTip": "03. Sum Prime Non Prime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:51:03.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\Program.cs",
+              "RelativeDocumentMoniker": "02. Equal Sums Even Odd Position\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\Program.cs",
+              "RelativeToolTip": "02. Equal Sums Even Odd Position\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:50:49.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\01. Number Pyramid\\Program.cs",
+              "RelativeDocumentMoniker": "01. Number Pyramid\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Nested Loops - Exercise\\01. Number Pyramid\\Program.cs",
+              "RelativeToolTip": "01. Number Pyramid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:50:12.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
