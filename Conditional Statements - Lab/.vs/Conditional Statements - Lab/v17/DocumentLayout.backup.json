@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB254FC-8961-4546-A201-9C6CAE8C621B}|07. Area of Figures\\07. Area of Figures.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - lab\\07. area of figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB254FC-8961-4546-A201-9C6CAE8C621B}|07. Area of Figures\\07. Area of Figures.csproj|solutionrelative:07. area of figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206A8EB-A381-42CD-9F39-58307AB70C10}|06. Speed Info\\06. Speed Info.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - lab\\06. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206A8EB-A381-42CD-9F39-58307AB70C10}|06. Speed Info\\06. Speed Info.csproj|solutionrelative:06. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F98A8D-584C-4258-A0BE-BDF11F708A3D}|05. Number 100-200\\05. Number 100-200.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - lab\\05. number 100-200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F98A8D-584C-4258-A0BE-BDF11F708A3D}|05. Number 100-200\\05. Number 100-200.csproj|solutionrelative:05. number 100-200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39581C5-F017-40FA-AF0B-0D8A20438788}|04. Password Guess\\04. Password Guess.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - lab\\04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39581C5-F017-40FA-AF0B-0D8A20438788}|04. Password Guess\\04. Password Guess.csproj|solutionrelative:04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8527D3E9-7DB0-4FD9-83F0-5492CBA24C9E}|03. Even or Odd\\03. Even or Odd.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - lab\\03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8527D3E9-7DB0-4FD9-83F0-5492CBA24C9E}|03. Even or Odd\\03. Even or Odd.csproj|solutionrelative:03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2AB2CF-24BA-4217-BA1A-8367C5AC276C}|02. Greater Number\\02. Greater Number.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - lab\\02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2AB2CF-24BA-4217-BA1A-8367C5AC276C}|02. Greater Number\\02. Greater Number.csproj|solutionrelative:02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4ED5CB2-ED20-4088-9D38-AED1E46BB110}|01. Excellent Result\\01. Excellent Result.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - lab\\01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4ED5CB2-ED20-4088-9D38-AED1E46BB110}|01. Excellent Result\\01. Excellent Result.csproj|solutionrelative:01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\07. Area of Figures\\Program.cs",
+              "RelativeDocumentMoniker": "07. Area of Figures\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\07. Area of Figures\\Program.cs",
+              "RelativeToolTip": "07. Area of Figures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:17:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\06. Speed Info\\Program.cs",
+              "RelativeDocumentMoniker": "06. Speed Info\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\06. Speed Info\\Program.cs",
+              "RelativeToolTip": "06. Speed Info\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:16:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\05. Number 100-200\\Program.cs",
+              "RelativeDocumentMoniker": "05. Number 100-200\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\05. Number 100-200\\Program.cs",
+              "RelativeToolTip": "05. Number 100-200\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:15:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\04. Password Guess\\Program.cs",
+              "RelativeDocumentMoniker": "04. Password Guess\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\04. Password Guess\\Program.cs",
+              "RelativeToolTip": "04. Password Guess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:14:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\03. Even or Odd\\Program.cs",
+              "RelativeDocumentMoniker": "03. Even or Odd\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\03. Even or Odd\\Program.cs",
+              "RelativeToolTip": "03. Even or Odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:13:10.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\02. Greater Number\\Program.cs",
+              "RelativeDocumentMoniker": "02. Greater Number\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\02. Greater Number\\Program.cs",
+              "RelativeToolTip": "02. Greater Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:11:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\01. Excellent Result\\Program.cs",
+              "RelativeDocumentMoniker": "01. Excellent Result\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Lab\\01. Excellent Result\\Program.cs",
+              "RelativeToolTip": "01. Excellent Result\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:10:16.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
