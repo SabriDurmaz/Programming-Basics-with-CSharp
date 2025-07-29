@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A92447-1536-4665-A431-185C4860C7B0}|01. USD to BGN\\01. USD to BGN.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\01. usd to bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A92447-1536-4665-A431-185C4860C7B0}|01. USD to BGN\\01. USD to BGN.csproj|solutionrelative:01. usd to bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06D33E1-9A89-42A6-B476-BBC7B13E57E9}|02. Radians to Degrees\\02. Radians to Degrees.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06D33E1-9A89-42A6-B476-BBC7B13E57E9}|02. Radians to Degrees\\02. Radians to Degrees.csproj|solutionrelative:02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CD07D-FA0E-4ADC-A589-1287E7308EF7}|09. Fish Tank\\09. Fish Tank.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CD07D-FA0E-4ADC-A589-1287E7308EF7}|09. Fish Tank\\09. Fish Tank.csproj|solutionrelative:09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC24B3C-BA30-461D-A32D-B426E3950B2B}|08. Basketball Equipment\\08. Basketball Equipment.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC24B3C-BA30-461D-A32D-B426E3950B2B}|08. Basketball Equipment\\08. Basketball Equipment.csproj|solutionrelative:08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6684E8-1139-4EA9-9204-50DC53FD5CC1}|07. Food Delivery\\07. Food Delivery.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6684E8-1139-4EA9-9204-50DC53FD5CC1}|07. Food Delivery\\07. Food Delivery.csproj|solutionrelative:07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC79D2C-DF2F-4249-9BA0-7648330B2CCA}|06. Repainting\\06. Repainting.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC79D2C-DF2F-4249-9BA0-7648330B2CCA}|06. Repainting\\06. Repainting.csproj|solutionrelative:06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B0CAD3-C32A-455E-A594-E9E60014DAD1}|05. Supplies for School\\05. Supplies for School.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B0CAD3-C32A-455E-A594-E9E60014DAD1}|05. Supplies for School\\05. Supplies for School.csproj|solutionrelative:05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5416E60-A830-4677-8A18-CACF3042D5BB}|04. Vacation Books List\\04. Vacation Books List.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5416E60-A830-4677-8A18-CACF3042D5BB}|04. Vacation Books List\\04. Vacation Books List.csproj|solutionrelative:04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6F0BD4-58CD-4D1D-ABC9-490C6CB12720}|03. Deposit Calculator\\03. Deposit Calculator.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\first steps in coding - exercise\\03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6F0BD4-58CD-4D1D-ABC9-490C6CB12720}|03. Deposit Calculator\\03. Deposit Calculator.csproj|solutionrelative:03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\09. Fish Tank\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fish Tank\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\09. Fish Tank\\Program.cs",
+              "RelativeToolTip": "09. Fish Tank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:01:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "08. Basketball Equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeToolTip": "08. Basketball Equipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:00:35.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "07. Food Delivery\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeToolTip": "07. Food Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:58:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\06. Repainting\\Program.cs",
+              "RelativeDocumentMoniker": "06. Repainting\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\06. Repainting\\Program.cs",
+              "RelativeToolTip": "06. Repainting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:57:25.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeDocumentMoniker": "05. Supplies for School\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeToolTip": "05. Supplies for School\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:55:03.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\04. Vacation Books List\\Program.cs",
+              "RelativeDocumentMoniker": "04. Vacation Books List\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\04. Vacation Books List\\Program.cs",
+              "RelativeToolTip": "04. Vacation Books List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:50:55.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\03. Deposit Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "03. Deposit Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\03. Deposit Calculator\\Program.cs",
+              "RelativeToolTip": "03. Deposit Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:49:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\02. Radians to Degrees\\Program.cs",
+              "RelativeDocumentMoniker": "02. Radians to Degrees\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\02. Radians to Degrees\\Program.cs",
+              "RelativeToolTip": "02. Radians to Degrees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:48:28.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\01. USD to BGN\\Program.cs",
+              "RelativeDocumentMoniker": "01. USD to BGN\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\First Steps In Coding - Exercise\\01. USD to BGN\\Program.cs",
+              "RelativeToolTip": "01. USD to BGN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:43:50.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
