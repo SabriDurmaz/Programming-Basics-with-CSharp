@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB7D176-C9DD-4321-8C36-3132531B2B54}|08. Lunch Break\\08. Lunch Break.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\08. lunch break\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB7D176-C9DD-4321-8C36-3132531B2B54}|08. Lunch Break\\08. Lunch Break.csproj|solutionrelative:08. lunch break\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24330947-AC54-4669-BD61-A094EDBA4E28}|07. Shopping\\07. Shopping.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\07. shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24330947-AC54-4669-BD61-A094EDBA4E28}|07. Shopping\\07. Shopping.csproj|solutionrelative:07. shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501C4CF6-0C00-4282-A6ED-50BC3EA62EC5}|06. World Swimming Record\\06. World Swimming Record.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\06. world swimming record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501C4CF6-0C00-4282-A6ED-50BC3EA62EC5}|06. World Swimming Record\\06. World Swimming Record.csproj|solutionrelative:06. world swimming record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BC7C48-AC1F-41BB-8EB4-AFB4001F5AA1}|05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\05. godzilla vs. kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BC7C48-AC1F-41BB-8EB4-AFB4001F5AA1}|05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj|solutionrelative:05. godzilla vs. kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F59794-714B-4440-86B0-BCE0D6490EEF}|04. Toy Shop\\04. Toy Shop.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\04. toy shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F59794-714B-4440-86B0-BCE0D6490EEF}|04. Toy Shop\\04. Toy Shop.csproj|solutionrelative:04. toy shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CD0C09-2C72-45E3-9AC5-5F0FC522E071}|03. Time \u002B 15 Minutes\\03. Time \u002B 15 Minutes.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\03. time \u002B 15 minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CD0C09-2C72-45E3-9AC5-5F0FC522E071}|03. Time \u002B 15 Minutes\\03. Time \u002B 15 Minutes.csproj|solutionrelative:03. time \u002B 15 minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CA58D0-2D98-4737-AC61-B41021741881}|02. Bonus Score\\02. Bonus Score.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\02. bonus score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CA58D0-2D98-4737-AC61-B41021741881}|02. Bonus Score\\02. Bonus Score.csproj|solutionrelative:02. bonus score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF5CAA-E512-4D53-B75C-0637179C1AE5}|01. Sum Seconds\\01. Sum Seconds.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements - exercise\\01. sum seconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF5CAA-E512-4D53-B75C-0637179C1AE5}|01. Sum Seconds\\01. Sum Seconds.csproj|solutionrelative:01. sum seconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\08. Lunch Break\\Program.cs",
+              "RelativeDocumentMoniker": "08. Lunch Break\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\08. Lunch Break\\Program.cs",
+              "RelativeToolTip": "08. Lunch Break\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:25:07.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\07. Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "07. Shopping\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\07. Shopping\\Program.cs",
+              "RelativeToolTip": "07. Shopping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:24:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\06. World Swimming Record\\Program.cs",
+              "RelativeDocumentMoniker": "06. World Swimming Record\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\06. World Swimming Record\\Program.cs",
+              "RelativeToolTip": "06. World Swimming Record\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:24:13.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\Program.cs",
+              "RelativeDocumentMoniker": "05. Godzilla vs. Kong\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\Program.cs",
+              "RelativeToolTip": "05. Godzilla vs. Kong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:23:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\04. Toy Shop\\Program.cs",
+              "RelativeDocumentMoniker": "04. Toy Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\04. Toy Shop\\Program.cs",
+              "RelativeToolTip": "04. Toy Shop\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:22:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\03. Time \u002B 15 Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "03. Time \u002B 15 Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\03. Time \u002B 15 Minutes\\Program.cs",
+              "RelativeToolTip": "03. Time \u002B 15 Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:22:26.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\02. Bonus Score\\Program.cs",
+              "RelativeDocumentMoniker": "02. Bonus Score\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\02. Bonus Score\\Program.cs",
+              "RelativeToolTip": "02. Bonus Score\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:21:37.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\01. Sum Seconds\\Program.cs",
+              "RelativeDocumentMoniker": "01. Sum Seconds\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements - Exercise\\01. Sum Seconds\\Program.cs",
+              "RelativeToolTip": "01. Sum Seconds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:20:59.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
