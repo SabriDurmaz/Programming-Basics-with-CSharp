@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{015F229D-7166-4B59-95BE-77543BDC1D0B}|08. Graduation\\08. Graduation.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015F229D-7166-4B59-95BE-77543BDC1D0B}|08. Graduation\\08. Graduation.csproj|solutionrelative:08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191FABC-02D4-49A8-85DC-7CCB8BDA2E54}|07. Min Number\\07. Min Number.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191FABC-02D4-49A8-85DC-7CCB8BDA2E54}|07. Min Number\\07. Min Number.csproj|solutionrelative:07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7985A13-A668-4CE9-AE1A-953BE103E1F4}|06. Max Number\\06. Max Number.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7985A13-A668-4CE9-AE1A-953BE103E1F4}|06. Max Number\\06. Max Number.csproj|solutionrelative:06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5510A38F-CB1F-4C7B-9DB8-3AC5EBF3C447}|05. Account Balance\\05. Account Balance.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5510A38F-CB1F-4C7B-9DB8-3AC5EBF3C447}|05. Account Balance\\05. Account Balance.csproj|solutionrelative:05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0758B8F6-D640-4DC1-B4BC-0C6D0279C1FF}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0758B8F6-D640-4DC1-B4BC-0C6D0279C1FF}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|solutionrelative:04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16279465-1C4E-42FB-B86B-EB1B8AEDF113}|03. Sum Numbers\\03. Sum Numbers.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16279465-1C4E-42FB-B86B-EB1B8AEDF113}|03. Sum Numbers\\03. Sum Numbers.csproj|solutionrelative:03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7684A522-3B75-4ED4-91E3-EE2E59D709E7}|02. Password\\02. Password.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7684A522-3B75-4ED4-91E3-EE2E59D709E7}|02. Password\\02. Password.csproj|solutionrelative:02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C4431B-951F-4F3A-93E2-7D9CC78EAAB6}|01. Read Text\\01. Read Text.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\while loop - lab\\01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C4431B-951F-4F3A-93E2-7D9CC78EAAB6}|01. Read Text\\01. Read Text.csproj|solutionrelative:01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "08. Graduation\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeToolTip": "08. Graduation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:35:58.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeDocumentMoniker": "07. Min Number\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeToolTip": "07. Min Number\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:35:32.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeDocumentMoniker": "06. Max Number\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeToolTip": "06. Max Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:35:13.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeDocumentMoniker": "05. Account Balance\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeToolTip": "05. Account Balance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:33:45.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sequence 2k\u002B1\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04. Sequence 2k\u002B1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:33:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\Program.cs",
+              "RelativeToolTip": "03. Sum Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:32:18.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\02. Password\\Program.cs",
+              "RelativeDocumentMoniker": "02. Password\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\02. Password\\Program.cs",
+              "RelativeToolTip": "02. Password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:31:32.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\01. Read Text\\Program.cs",
+              "RelativeDocumentMoniker": "01. Read Text\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\While Loop - Lab\\01. Read Text\\Program.cs",
+              "RelativeToolTip": "01. Read Text\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:30:54.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
