@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D0CCC8-B9C9-45EB-84D4-FBF51464F6EC}|12. Trade Commissions\\12. Trade Commissions.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D0CCC8-B9C9-45EB-84D4-FBF51464F6EC}|12. Trade Commissions\\12. Trade Commissions.csproj|solutionrelative:12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9ED5A9-0686-4F4C-91E6-6EF1AEDA2C41}|11. Fruit Shop\\11. Fruit Shop.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9ED5A9-0686-4F4C-91E6-6EF1AEDA2C41}|11. Fruit Shop\\11. Fruit Shop.csproj|solutionrelative:11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE541ED3-B875-4502-B31B-18A326D41E0B}|10. Invalid Number\\10. Invalid Number.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\10. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE541ED3-B875-4502-B31B-18A326D41E0B}|10. Invalid Number\\10. Invalid Number.csproj|solutionrelative:10. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79945516-E977-46AF-BBD2-9B0FBB5CB91B}|09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\09. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79945516-E977-46AF-BBD2-9B0FBB5CB91B}|09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj|solutionrelative:09. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC93699-17D6-4403-827D-195B9976ED2F}|08. Cinema Ticket\\08. Cinema Ticket.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\08. cinema ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC93699-17D6-4403-827D-195B9976ED2F}|08. Cinema Ticket\\08. Cinema Ticket.csproj|solutionrelative:08. cinema ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA9CD1A-3B31-4296-83FC-17465EE33629}|07. Working Hours\\07. Working Hours.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA9CD1A-3B31-4296-83FC-17465EE33629}|07. Working Hours\\07. Working Hours.csproj|solutionrelative:07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F1F295-435C-4F1E-AE73-11495CF05031}|06. Number in Range\\06. Number in Range.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F1F295-435C-4F1E-AE73-11495CF05031}|06. Number in Range\\06. Number in Range.csproj|solutionrelative:06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA8DF1D-492F-4F1C-BC3D-480B4DA701AC}|05. Small Shop\\05. Small Shop.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\05. small shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA8DF1D-492F-4F1C-BC3D-480B4DA701AC}|05. Small Shop\\05. Small Shop.csproj|solutionrelative:05. small shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8247325E-1E85-4FFE-9F13-1A666BEABE9D}|04. Personal Titles\\04. Personal Titles.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\04. personal titles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8247325E-1E85-4FFE-9F13-1A666BEABE9D}|04. Personal Titles\\04. Personal Titles.csproj|solutionrelative:04. personal titles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7C2F8-6457-4061-B958-3F785DC1D47A}|03. Animal Type\\03. Animal Type.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\03. animal type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A7C2F8-6457-4061-B958-3F785DC1D47A}|03. Animal Type\\03. Animal Type.csproj|solutionrelative:03. animal type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E628B72-8793-45FE-A978-3B5F3BECFEF2}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E628B72-8793-45FE-A978-3B5F3BECFEF2}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|solutionrelative:02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FEF76D-A8D3-4FA3-96DB-1C2B716EC545}|01. Day of Week\\01. Day of Week.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\conditional statements advanced - lab\\01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FEF76D-A8D3-4FA3-96DB-1C2B716EC545}|01. Day of Week\\01. Day of Week.csproj|solutionrelative:01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\Program.cs",
+              "RelativeDocumentMoniker": "12. Trade Commissions\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\Program.cs",
+              "RelativeToolTip": "12. Trade Commissions\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:34:39.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\Program.cs",
+              "RelativeDocumentMoniker": "11. Fruit Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\Program.cs",
+              "RelativeToolTip": "11. Fruit Shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:34:06.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\10. Invalid Number\\Program.cs",
+              "RelativeDocumentMoniker": "10. Invalid Number\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\10. Invalid Number\\Program.cs",
+              "RelativeToolTip": "10. Invalid Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:33:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fruit or Vegetable\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\Program.cs",
+              "RelativeToolTip": "09. Fruit or Vegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:32:51.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\08. Cinema Ticket\\Program.cs",
+              "RelativeDocumentMoniker": "08. Cinema Ticket\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\08. Cinema Ticket\\Program.cs",
+              "RelativeToolTip": "08. Cinema Ticket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:32:21.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\07. Working Hours\\Program.cs",
+              "RelativeDocumentMoniker": "07. Working Hours\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\07. Working Hours\\Program.cs",
+              "RelativeToolTip": "07. Working Hours\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:31:28.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\06. Number in Range\\Program.cs",
+              "RelativeDocumentMoniker": "06. Number in Range\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\06. Number in Range\\Program.cs",
+              "RelativeToolTip": "06. Number in Range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:30:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\05. Small Shop\\Program.cs",
+              "RelativeDocumentMoniker": "05. Small Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\05. Small Shop\\Program.cs",
+              "RelativeToolTip": "05. Small Shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:30:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\04. Personal Titles\\Program.cs",
+              "RelativeDocumentMoniker": "04. Personal Titles\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\04. Personal Titles\\Program.cs",
+              "RelativeToolTip": "04. Personal Titles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:29:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\03. Animal Type\\Program.cs",
+              "RelativeDocumentMoniker": "03. Animal Type\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\03. Animal Type\\Program.cs",
+              "RelativeToolTip": "03. Animal Type\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:29:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\Program.cs",
+              "RelativeDocumentMoniker": "02. Weekend or Working Day\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\Program.cs",
+              "RelativeToolTip": "02. Weekend or Working Day\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:28:44.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\01. Day of Week\\Program.cs",
+              "RelativeDocumentMoniker": "01. Day of Week\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Conditional Statements Advanced - Lab\\01. Day of Week\\Program.cs",
+              "RelativeToolTip": "01. Day of Week\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:28:11.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
